@@ -1,0 +1,111 @@
+repo_name: Achufam24/tryChow
+report_id: e8d41289dadd7e288c60757cc18ee793
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-17T09:03:54+00:00'
+requested_by: Achufam24
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Achufam24/tryChow
+  detection_source: Repo Metadata
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 3.11.2
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 3.4.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Achufam24/tryChow
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 3.4.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Achufam24/tryChow/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Achu-ulim Agbama
+  last_updated_on: 2024-04-06 07:59:22.000000000 Z
